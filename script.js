@@ -42,6 +42,6 @@ form.addEventListener('submit', e => {
 })
 
 
-// document.addEventListener("contextmenu", function (x) {
-//     x.preventDefault()
-// }, false);
+document.addEventListener("contextmenu", function (x) {
+    x.preventDefault()
+}, false);
